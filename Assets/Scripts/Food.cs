@@ -4,6 +4,7 @@ using UnityEngine;
 [Serializable]
 public enum FoodType
 {
+    None = -1,
     Burger, //Толстеет
     Candy,  //Прыщи
     Protein,//Мускулы
